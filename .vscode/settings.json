@@ -1,0 +1,35 @@
+{
+  "eslint.validate": [ "vue", "javascript", "javascriptreact" ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.formatOnSave": false,
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "vetur.validation.template": false,
+  "vetur.validation.script": false,
+  "cSpell.words": [
+    "algolia",
+    "crossorigin",
+    "datocms",
+    "flexb",
+    "flexbox",
+    "lazyload",
+    "linkedin",
+    "noindex",
+    "nuxtjs",
+    "preconnect",
+    "pretitle",
+    "stylelint",
+    "transpiles",
+    "vuepress",
+    "vuetify",
+    "vuex",
+    "woff",
+    "wordpress",
+    "xxxl",
+    "xxxxl",
+    "youtube"
+  ]
+}
